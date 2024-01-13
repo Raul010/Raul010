@@ -1,4 +1,4 @@
-<h1 align="center">Esteban Ramirez</h1> 
+
 
 
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
