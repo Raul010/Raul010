@@ -1,7 +1,7 @@
 
 
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<h2 >Tecnologías</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
